@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Melek Taş</h1>
-<h3 align="center">A passionate Backend developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **JAVA**
 
