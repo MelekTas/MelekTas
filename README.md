@@ -1,6 +1,4 @@
 
- [![MasterHead(https://tr.pinterest.com/pin/4151824650070927/)
-
 <h1 align="center">Hi 👋, I'm Melek Taş</h1>
 <h3 align="center">A passionate Backend developer from Türkiye</h3>
 
