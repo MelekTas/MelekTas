@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Melek Taş</h1>
 
-- 🔭 I’m currently working on **JAVA**
+- 🔭 I’m currently working on **Java**
 
 - 📫 How to reach me **melektass04@gmail.com**
 
