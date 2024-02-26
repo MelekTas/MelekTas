@@ -1,4 +1,4 @@
-![2021-yilinda-ogrenilecek-en-populer-10-programlama-dili (2) (2)](https://github.com/MelekTas/MelekTas/assets/135803522/8aeaf9e6-c4ad-43e7-bf41-2b0be195cef9)
+![2021-yilinda-ogrenilecek-en-populer-10-programlama-dili (2)](https://github.com/MelekTas/MelekTas/assets/135803522/4705d52d-4e39-4b00-b2d5-1ed963cbc13e)
 <h1 align="center">Hi 👋, I'm Melek Taş</h1>
 
 - 🔭 I’m currently working on **Java**
