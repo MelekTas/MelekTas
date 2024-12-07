@@ -1,7 +1,7 @@
 ![2021-yilinda-ogrenilecek-en-populer-10-programlama-dili (2)](https://github.com/MelekTas/MelekTas/assets/135803522/4705d52d-4e39-4b00-b2d5-1ed963cbc13e)
 <h1 align="center">Hi 👋, I'm Melek Taş</h1>
 
-- 🔭 I’m currently working on **Java and Flutter**
+- 🔭 I’m currently working on **Mobile App Development**
 
 - 📫 How to reach me **melektass04@gmail.com**
 
